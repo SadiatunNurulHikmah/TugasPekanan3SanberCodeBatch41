@@ -1,0 +1,23 @@
+{
+  "name": "tugassanbercodebatch41-1",
+  "version": "1.0.0",
+  "description": "Tugas QA Automation Batch 41 Kelas Karyawan - Tugas Pekanan 3 Javascript",
+  "main": "index.js",
+  "scripts": {
+    "soal1": "node Test/soal1.js",
+    "soal2": "node Test/soal2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadiatunNurulHikmah/TugasSanberCodeBatch41.git"
+  },
+  "author": "Sadiatun Nurul Hikmah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadiatunNurulHikmah/TugasSanberCodeBatch41/issues"
+  },
+  "homepage": "https://github.com/SadiatunNurulHikmah/TugasSanberCodeBatch41#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
