@@ -1,4 +1,3 @@
-const prompt = require('prompt-sync')({sigint: true});
 const dataProduct = require('../DataTest/dataSoal2')
 
 let totalQuantity = 0;
