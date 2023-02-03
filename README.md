@@ -19,3 +19,4 @@ Hint : Gunakan metode Pengulangan, Array dan Object keys (silakan cari referensi
 
 Untuk menjalankan program soal 2 = npm run soal2
 
+Berikut Link Dokumentasi Berjalannya Program : https://docs.google.com/document/d/1ixsfrqHYHcuSpkyvcj3W3O0uq3n9wprNmQthsQmBCTk/edit?usp=share_link
